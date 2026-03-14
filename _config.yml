@@ -1,2 +1,3 @@
 exclude:
   - UPDATE_HISTORY.md
+  - README.md
